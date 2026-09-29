@@ -12,5 +12,6 @@ Practical 8: Register-reference instructions INC, SPA, SNA, SZE
 Practical 9: Register-reference instructions CIR, CIL
 Practical 10: Sum of integers until a negative number is read
 Practical 11: Sum of integers until zero is read
+## Author: Saanvi Srivastava (26570051)
 
 
